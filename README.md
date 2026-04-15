@@ -65,5 +65,3 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 ---
 
 ####  I am 👾 Backend Developer and 🔏 AI Agent Developer in my free time.
-
-My BE Thesis in computer science was about "**Image-based Facial Recognition System** in Python," an application that uses a few Images as its training set to identify a person appearing in a Live Security Camera.
