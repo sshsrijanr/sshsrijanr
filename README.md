@@ -1,4 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="sshsrijanr's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 📢 Nominate ([@sshsrijanr](https://github.com/sshsrijanr/)) as **[GitHub Star](https://stars.github.com/nominate)**. If you appreciate his hard work and dedication to open source.
+
 
 ---
 
